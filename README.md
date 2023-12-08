@@ -7,7 +7,7 @@ The neural network aggregates several related features per organization to attem
 
 ## Results
 
-Data Preprocessing
+### Data Preprocessing
 
 The target of the model was the success of the organization as a binary outcome (successful or not successful).
 The features used by the model were the application type, sector of industry, government organization classification, case for funding, organization type, and funding amount requested.
